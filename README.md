@@ -1,1 +1,24 @@
-# bikesharing
+# Citi Bike Analysis 
+This is a summary of the analytic work that I did with the NYC City Bike data and Des Moines data using McDonald's locations as touchstone spots. 
+
+## Comparison of NYC and Des Moines for City Bike
+
+### Story highlights using Tableau at
+[Story Link](https://public.tableau.com/profile/betsy1119#!/vizhome/bikesharing_15975435207440/DMNYCCItyBIke)
+
+The City Bike service was conceived in looking at the convenient ways to experience and navigate New York City using a bike share system. It allows for both locals and tourists to explore cities like New York and Des Moines without the constraints of inflates prices from parking and commuting in downtown areas. 
+As a starting point the following question was considered as a touchstone point: What is the density of McDonald's in New York City versus Des Moines? Does this affect where people go in the city? If so, how?
+
+This question is tackled in a variety of aspects to use our basis as a valid example for projecting the use of City Bike in Des Moines. 
+The data containing the amount of McDonald’s in Des Moines and in New York City was plotted geographically to visualize the separation of each locale in relation to the city’s downtown areas. A count of the amount of McDonald’s in each corresponding bar chart determines that while New York City is a much larger comparable city than Des Moines as per the population differences, New York City has a total of 26 McDonald’s chains and Des Moines has 20. Looking closer into the bar chart locations for both cities’ locations of McDonald’s we can also determine that both in the city of New York and in the city of Des Moines there are exactly 11 establishments. 
+A question that rose from this finding is the following: what is the concentration of activities or attractions in Des Moines and how do the McDonald’s locations help us identify Des Moines tourism hotspots?
+
+To answer this question, we needed to look deeper into the concentration of McDonald’s in the Des Moines area as a touchstone point. There is a variety of activities from Farmer’s Markets, museums, amusement parks, and zoos in the downtown area. This is not only indicative of high activity (and therefore a large amount of McDonald’s in the area) but also indicative that this is a family – friendly city. 
+
+Taking a closer look into the largest average trip durations we see that the highest average trip duration was performed by the ages of 51, 20 and 18 with trips ranging from 36 minutes to 25 minutes for these ages. Seeing the population of NYC then we can find that there is a 24.5% percent of population that are 18 or younger, making the Des Moines community a great place for City Bike to thrive. Comparing this with the growth rate of the city (4.5% in Des Moines in comparison with 2.0% for NYC) and the city of Des Moines is well on its way to growth that makes Bike Share a necessity for getting around the city. 
+
+Using the McDonald’s locations as touchstone points we can see the distribution of locations throughout the city of Des Moines. Consulting the tourism website can see that there is a high concentration of activities in the central Des Moines area. Though the population per square mile is much smaller than NYC, we can see that the land area per square mile is a lot smaller, making Des Moines a city that could be commuted to by bike from one destination to the other. 
+
+It is for this reason that there is a transit service in Des Moines called the DART D-Line that offers free rides to tourists and locals through a major line in the city. While this service could certainly be a competitor to establishing a bike share service, it also lacks in the hours of service to be available (weekdays until 6pm and Saturdays until 5pm with no Sunday service) and it transits through one major road in downtown Des Moines [DART link](https://www.ridedart.com/routes/shuttles/42-d-line-downtown). This unveils a gap that City Bike could take advantage of both in availability and mobile flexibility, allowing people to access current areas lacking reach by commute means in a city that is rapidly expanding.
+
+Using Citi Bike will not only allow tourism to have flexibility of commuting for a growing city, but it also caters to the current lifestyle of existing populations of Des Moines. Cities such as NYC benefit of using Citi Bike for tourism, parking help for visitors not having to pay subway, taxis and car rental fees but Des Moines benefits from Citi Bike uses for more organic reasons.[DM Tourism](https://www.catchdesmoines.com/things-to-do/top-things-to-do/) The decreased traffic, family friendly lifestyle of Des Moines speaks to a more relaxed journey to visit hotspots around the city. It is apparent through the population metrics, expansion of the city and the current commuting options downtown that Des Moines has more attractions that would benefit from City Bike to help in showcasing it. 
